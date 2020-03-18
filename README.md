@@ -10,6 +10,6 @@ scipy==1.3.0\
 seaborn==0.9.0\
 sklearn==0.0\
 tqdm==4.43.0\
-xgboost==0.90\
+xgboost==0.90
 ## Citation
 https://doi.org/10.1101/2020.02.27.20028027
