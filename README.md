@@ -1,6 +1,6 @@
 # Pre_Surv_COVID_19
 A machine learning-based model for survival prediction in COVID patients\
-https://doi.org/10.5281/zenodo.3758806
+https://zenodo.org/badge/DOI/10.5281/zenodo.3758806.svg
 ## Requirements
 graphviz==0.13.2\
 matplotlib==3.1.0\
