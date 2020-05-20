@@ -58,9 +58,11 @@ data
 
 
 ## Citation
-https://doi.org/10.1101/2020.02.27.20028027
+https://www.nature.com/articles/s42256-020-0180-7
 
 
+## Contact
+Prof. Ye Yuan, yye@hust.edu.cn
 
 
 
